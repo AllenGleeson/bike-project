@@ -1,6 +1,6 @@
 import requests
 from PDFImageClass import PDFImageEmbedder
-from util import InputValidator
+from InputValidator import InputValidator
 
 class BikeDataProcessor:
     def __init__(self, base_url):

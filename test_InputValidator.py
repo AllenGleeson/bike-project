@@ -1,6 +1,6 @@
 import pytest
 from datetime import datetime, timedelta
-from util import InputValidator
+from InputValidator import InputValidator
 
 @pytest.fixture
 def mock_input(monkeypatch):

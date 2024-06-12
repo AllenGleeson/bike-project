@@ -1,4 +1,4 @@
-from util import InputValidator
+from InputValidator import InputValidator
 from BikeDataProcessor import BikeDataProcessor
 
 def main():
